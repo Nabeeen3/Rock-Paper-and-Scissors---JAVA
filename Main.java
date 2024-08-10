@@ -22,7 +22,7 @@ public class Main {
             int gameCount = 0;
             int player_count = 0;
             int bot_count = 0;
-            while (gameCount != 2) {
+            while (gameCount != 3) {
 
 
                 System.out.print("\nRock, Paper or Scissors? ");
